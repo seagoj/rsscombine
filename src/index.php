@@ -1,2 +1,2 @@
 <?php
-	print 'It\'s alive!';
+	print 'Hook works';
