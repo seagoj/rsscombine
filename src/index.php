@@ -1,2 +1,2 @@
 <?php
-	print 'Hook works again and again';
+	print 'Hook works';
